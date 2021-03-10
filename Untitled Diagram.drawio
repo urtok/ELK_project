@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T16:40:38.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.6" etag="8vz_bO2hpUu7zCLE-FhN" type="github"><diagram id="ZchiIvRBt6GIhsi3ZKEF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T22:33:36.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="eqBx9hMxe970n8x_4yXo" version="14.4.6" type="github">
+  <diagram id="ZchiIvRBt6GIhsi3ZKEF" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8tGbU7f63k9DGVzsNGqv-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8tGbU7f63k9DGVzsNGqv-4" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8tGbU7f63k9DGVzsNGqv-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="161.11" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8tGbU7f63k9DGVzsNGqv-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="344" y="165.75" width="81.4" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
